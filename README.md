@@ -128,7 +128,7 @@ To run this project locally:
 
 ## 📝 License
 
-**Copyright © 2025 [Your Name]. All Rights Reserved.**
+**Copyright © 2025 Cameron Mccreadie Chaplin. All Rights Reserved.**
 
 This software is the intellectual property of the author.
 
