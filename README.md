@@ -2,7 +2,7 @@
 
 > **Bridging the gap between "Homework Set" and "Homework Done."**
 
-![Status](https://img.shields.io/badge/Status-In%20Development-orange) ![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange) 
 
 **Gogarow** is a lightweight Learning Management System (LMS) focused on student accountability and the home-school connection. It provides a seamless interface for Teachers and Parents to assign work, and a flexible "Proof of Work" engine for Students to submit assignments via file upload, screenshot, or rich text.
 
@@ -126,6 +126,3 @@ To run this project locally:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
