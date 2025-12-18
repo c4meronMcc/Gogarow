@@ -126,3 +126,13 @@ To run this project locally:
 
 ---
 
+## 📝 License
+
+**Copyright © 2025 [Your Name]. All Rights Reserved.**
+
+This software is the intellectual property of the author.
+
+* **You are permitted to:** View this code for educational purposes or to evaluate the author's professional skills.
+* **You are NOT permitted to:** Copy, distribute, modify, sell, or use this code for any commercial purpose without the express written consent of the author.
+
+For inquiries regarding this project, please contact: cameronnmccreadiee@gmail.com
